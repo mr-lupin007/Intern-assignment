@@ -153,4 +153,5 @@ Add support for Lottie animations (importing JSON from LottieFiles)
 
 More sophisticated visualization types (graphs, flowcharts)
 
-Deploy on Render/Netlify for public use
+Deploy on Render/Netlify for public use <img width="1915" height="908" alt="image" src="https://github.com/user-attachments/assets/df4c7c2b-209e-4152-bc2a-7db1e2109cbc" />
+
